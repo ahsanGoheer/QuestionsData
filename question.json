@@ -1,0 +1,82 @@
+[
+    {
+        "questionText": "UNIVAC is",
+        "option1": "Universal Automatic Computer",
+        "option2": "Universal Array Computer",
+        "option3": "Unique Automatic Computer",
+        "option4": "Unvalued Automatic Computer",
+        "correctChoiceIndex": 0
+    },
+    {
+        "questionText": "The basic operations performed by a computer are",
+        "option1": "Arithmetic operation",
+        "option2": "Logical operation",
+        "option3": "Storage and relative",
+        "option4": "All the above",
+        "correctChoiceIndex": 3
+    },
+    {
+        "questionText": "The two major types of computer chips are",
+        "option1": "External memory chip",
+        "option2": "Primary memory chip",
+        "option3": "Microprocessor chip",
+        "option4": "Both b and c",
+        "correctChoiceIndex": 3
+    },
+    {
+        "questionText": "Microprocessors as switching devices are for which generation computers",
+        "option1": "First Generation",
+        "option2": "Second Generation",
+        "option3": "Third Generation",
+        "option4": "Fourth Generation",
+        "correctChoiceIndex": 3
+    },
+    {
+        "questionText": "What is the main difference between a mainframe and a super computer?",
+        "option1": "Super computer is much larger than mainframe computers",
+        "option2": "Super computers are much smaller than mainframe computers",
+        "option3": "Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently",
+        "option4": "Supercomputers are focused to execute as many programs as possible while mainframe uses its power to execute few programs as fast as possible.",
+        "correctChoiceIndex": 2
+    },
+    {
+        "questionText": "ASCII and EBCDIC are the popular character coding systems. What does EBCDIC stand for?",
+        "option1": "Extended Binary Coded Decimal Interchange Code",
+        "option2": "Extended Bit Code Decimal Interchange Code",
+        "option3": "Extended Bit Case Decimal Interchange Code",
+        "option4": "Extended Binary Case Decimal Interchange Code",
+        "correctChoiceIndex": 0
+    },
+    {
+        "questionText": "The brain of any computer system is",
+        "option1": "ALU",
+        "option2": "Memory",
+        "option3": "CPU",
+        "option4": "Control unit",
+        "correctChoiceIndex": 2
+    },
+    {
+        "questionText": "Storage capacity of magnetic disk depends on",
+        "option1": "tracks per inch of surface",
+        "option2": "bits per inch of tracks",
+        "option3": "disk pack in disk surface",
+        "option4": "All of above",
+        "correctChoiceIndex": 3
+    },
+    {
+        "questionText": "The two kinds of main memory are:",
+        "option1": "Primary and secondary",
+        "option2": "Random and sequential",
+        "option3": "ROM and RAM",
+        "option4": "All of above",
+        "correctChoiceIndex": 2
+    },
+    {
+        "questionText": "A storage area used to store data to a compensate for the difference in speed at which the different units can handle data is",
+        "option1": "Memory",
+        "option2": "Buffer",
+        "option3": "Accumulator",
+        "option4": "Address",
+        "correctChoiceIndex": 1
+    }
+]
